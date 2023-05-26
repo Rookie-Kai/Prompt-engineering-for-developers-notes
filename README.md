@@ -3,10 +3,10 @@
 
 ## 笔记内容
 
-| 序号  |                             课程                              |                                    笔记                                     |
-|:---:|:-----------------------------------------------------------:|:-------------------------------------------------------------------------:|
-|  1  |  [Prompt构建原则](https://www.bilibili.com/video/BV1ug4y157xA)  |     [L1-Principles for Prompting](L1-Principles for Prompting.ipynb)      |
-|  2  | [Prompt如何迭代优化](https://www.bilibili.com/video/BV1yh411V7ge) | [L2-Iterative Prompt Development](L2-Iterative Prompt Development.ipynb)  |
+| 序号  |                             课程                              |                                    笔记                                    |
+|:---:|:-----------------------------------------------------------:|:------------------------------------------------------------------------:|
+|  1  |  [Prompt构建原则](https://www.bilibili.com/video/BV1ug4y157xA)  |   [L1-Principles for Prompting](L1-Principles%20for%20Prompting.ipynb)   |
+|  2  | [Prompt如何迭代优化](https://www.bilibili.com/video/BV1yh411V7ge) | [L2-Iterative Prompt Development](L2-Iterative%20Prompt%20Development.ipynb) |
 |  3  |     [文本总结](https://www.bilibili.com/video/BV1jM411379y)     ||
 |  4  |     [文本推理](https://www.bilibili.com/video/BV1B24y1T7Pt)     ||
 |  5  |     [文本转换](https://www.bilibili.com/video/BV1Bk4y1E7Z8)     ||
