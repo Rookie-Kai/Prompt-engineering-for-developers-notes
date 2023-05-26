@@ -15,5 +15,6 @@
 |  8  |     [课程总结](https://www.bilibili.com/video/BV1RT411b7E8)     ||
 
 ## 课程来源
-B站 [**二次元的Datawhale** :吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版](https://space.bilibili.com/431850986) 
+B站 [**二次元的Datawhale** :吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版](https://space.bilibili.com/431850986)  
+
 Github [**Datawhale** : prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers/tree/main)
