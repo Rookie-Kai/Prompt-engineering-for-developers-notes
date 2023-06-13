@@ -12,7 +12,7 @@
 |  5  |     [文本转换](https://www.bilibili.com/video/BV1Bk4y1E7Z8)     |                                [L5-Transforming](L5-Transforming.ipynb)                                |
 |  6  |     [文本生成](https://www.bilibili.com/video/BV1Jh411j7PH)     |                                   [L6-Expanding](L6-Expanding.ipynb)                                   |
 |  7  |  [实现一个聊天机器人](https://www.bilibili.com/video/BV1jm4y1y7rA)   |                                     [L7-Chatbot](L7-Chatbot.ipynb)                                     |
-|  8  |     [课程总结](https://www.bilibili.com/video/BV1RT411b7E8)     ||
+|  8  |     [课程总结](https://www.bilibili.com/video/BV1RT411b7E8)     ||[L8-Replenishment](L8-Replenishment.ipynb)
 
 ## 课程来源
 B站 [**二次元的Datawhale** :吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版](https://space.bilibili.com/431850986)  
